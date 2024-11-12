@@ -1,1 +1,1 @@
-# Currency-Converter
+This Currency Converter is a web application designed to help users easily convert between various currencies in real-time. Utilizing a clean, intuitive UI, it offers a seamless way to perform currency conversions based on the latest exchange rates.
